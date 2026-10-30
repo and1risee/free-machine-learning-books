@@ -2,7 +2,7 @@
 
 # 📚 Free Machine Learning Books
 
-**A curated collection of 100% legally free Machine Learning & Deep Learning books — direct download links, no piracy.**
+**A curated collection of 100% legally free Machine Learning & Deep Learning books — direct download links, no piracy**
 
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/free-ml-books?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -16,7 +16,7 @@
 ---
 
 > ⚡ **Every PDF below is officially free** — shared by the authors or publishers.
-> Click → Download → Read. No sign-ups, no piracy.
+> Click → Download → Read. No sign-ups, no piracy
 
 ---
 
@@ -87,17 +87,17 @@
 
 ## 🤝 Contributing
 
-PRs welcome! Please only add books that are **legally free** (open access or author-approved). Read [CONTRIBUTING.md](CONTRIBUTING.md).
+PRs welcome! Please only add books that are **legally free** (open access or author-approved). Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## ⚖️ Legal
 
-All PDFs linked here are officially open-access, shared freely by their authors or publishers. This repository does **not** host pirated content. If you are an author and want your book removed, open an issue.
+All PDFs linked here are officially open-access, shared freely by their authors or publishers. This repository does **not** host pirated content. If you are an author and want your book removed, open an issue
 
 ---
 
 <div align="center">
 
-**⭐ Star this repo if it helped you!** It helps others discover it.
+**⭐ Star this repo if it helped you!** It helps others discover it
 
 </div>
 
