@@ -84,5 +84,21 @@
 | Build a Large Language Model (From Scratch) | Sebastian Raschka | [Amazon](https://www.amazon.com/dp/1617297138) |
 | Machine Learning Design Patterns | Lakshmanan, Robinson, Munn | [Amazon](https://www.amazon.com/dp/1098117786) |
 
-## 🛣 Suggested Learning Path
+
+## 🤝 Contributing
+
+PRs welcome! Please only add books that are **legally free** (open access or author-approved). Read [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## ⚖️ Legal
+
+All PDFs linked here are officially open-access, shared freely by their authors or publishers. This repository does **not** host pirated content. If you are an author and want your book removed, open an issue.
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if it helped you!** It helps others discover it.
+
+</div>
+
 
