@@ -4,7 +4,7 @@
 
 **A curated collection of 100% legally free Machine Learning & Deep Learning books — direct download links, no piracy**
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/free-ml-books?style=social)
+![Stars](https://img.shields.io/github/stars/and1risee/free-machine-learning-books?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Books](https://img.shields.io/badge/books-20%2B-blue)
